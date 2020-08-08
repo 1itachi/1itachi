@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software developer with 3+ years of experience. The most recent one being the Software Engineer Intern at Slalom Build, Boston. I enjoy building reactive applicationS. I am also an AWS cretified developer and solution architect associate. 
+
+Currently, I am pursuing my Master's in Computer Science at Northeastern University, Boston. 
