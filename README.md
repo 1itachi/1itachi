@@ -8,5 +8,5 @@
 - 💬 Ask me about AWS, JavaScript, Java, Databases
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deepak-kumar-bb1810115/)
 - ⚡ Fun fact: A big anime fan, love to read books and building new things
-- :cross: Most repositories are Private. Drop a request to make it public.
+- :exclamation: Most repositories are Private. Drop a request to make it public.
 
