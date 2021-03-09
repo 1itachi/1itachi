@@ -13,3 +13,6 @@
 
 ![itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachi1994&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
