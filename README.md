@@ -12,3 +12,4 @@
 - :exclamation:  Most repositories are Private. Drop a request to make it public.
 
 ![itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachi1994&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi1994&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
