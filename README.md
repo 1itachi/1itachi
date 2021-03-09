@@ -11,5 +11,5 @@
 - ⚡ Fun fact: A big anime fan, love to read books and building new things
 - :exclamation:  Most repositories are Private. Drop a request to make it public.
 
-![itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachi1994&count_private=true&show_icons=true&theme=tokyonight)
+![itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachi1994&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
