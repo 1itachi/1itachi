@@ -1,4 +1,4 @@
-<div align="center">
+
 ********* Most coding is done in University GitHub handle (github.ccis) *************
 
   - 🔭 Master of Science in Computer Science  at Northeastern Univeristy
@@ -14,5 +14,4 @@
 
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
 
