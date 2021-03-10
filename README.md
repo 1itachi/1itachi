@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on react applications and open source
 - 💬 Ask me about AWS, JavaScript, Java, Databases
 - :cloud:  AWS Certified Developer and Solution Architect Associate
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deepak-kumar-bb1810115/)
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak94kumar/)
 - ⚡ Fun fact: A big anime fan, love to read books and building new things
 - :exclamation:  Most repositories are Private. Drop a request to make it public.
 
