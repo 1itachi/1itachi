@@ -2,8 +2,6 @@
 ********* Most coding is done in University GitHub handle (github.ccis) *************
 
   - 🔭 Master of Science in Computer Science  at Northeastern Univeristy
-  - 🌱 I’m currently working on building reactive applications and cloud
-  - 👯 I’m looking to collaborate on react applications and open source
   - 💬 Ask me about AWS, JavaScript, Java, Databases
   - :cloud:  AWS Certified Developer and Solution Architect Associate
   - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak94kumar/)
