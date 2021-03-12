@@ -12,5 +12,5 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi1994&theme=tokyonight)
 
 ### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
