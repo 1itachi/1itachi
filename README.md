@@ -1,4 +1,4 @@
-<center>
+
 Hi, I am [Deepak](https://deepak-kumar.netlify.app/)! :wave:
    
    * MS in Computer Science  at Northeastern University, Boston 🏫
@@ -11,11 +11,9 @@ Hi, I am [Deepak](https://deepak-kumar.netlify.app/)! :wave:
 
 ![itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachi1994&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
-<center>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi1994&theme=tokyonight)
- </center> 
 
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
-</center>
