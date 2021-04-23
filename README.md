@@ -1,4 +1,4 @@
-
+<img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="300">
 # Hi, I am [Deepak](https://deepak-kumar.netlify.app/)! :wave:
 [![dev.to badge](https://img.shields.io/badge/linkedin-deepak-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-kumar-bb1810115/)
 [![glitch badge](https://img.shields.io/badge/facebook-mo.deepak-%230177B5?style=flat&logo=facebook)](https://www.facebook.com/Deepakk.svpuc)
