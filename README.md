@@ -8,7 +8,7 @@
    * 🏫 MS in Computer Science  at Northeastern University, Boston 
    * 💬 Ask me about AWS, JavaScript, Java, Databases
    * :cloud:  AWS Certified Developer and Solution Architect Associate
-   * ⚡ Fun fact: A big anime fan, love to read books and building new things
+   * ⚡ Fun fact: A big anime fan, love to read books and build new things
    * :exclamation:  Most repositories are Private. Drop a request to make it public.
 
 
