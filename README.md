@@ -10,9 +10,3 @@
    * :cloud:  AWS Certified Developer and Solution Architect Associate
    * ⚡ Fun fact: arsenal fan, follows anime religiously
    * :exclamation:  Most repositories are Private. Drop a request to make it public.
-
-
-![itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachi1994&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi1994&theme=tokyonight)
