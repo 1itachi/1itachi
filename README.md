@@ -9,4 +9,3 @@
    * 💬 Ask me about AWS, JavaScript, Java, Databases
    * :cloud:  AWS Certified Developer and Solution Architect Associate
    * ⚡ Fun fact: Arsenal fan, follows anime religiously
-   * :exclamation:  Most repositories are Private. Drop a request to make it public.
