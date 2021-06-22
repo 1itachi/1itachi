@@ -6,6 +6,6 @@
 [![twitter badge](https://img.shields.io/badge/instagram-@deepak-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/itachi.deepak/)
 ![](https://komarev.com/ghpvc/?username=itachi1994&color=brightgreen&style=flat)
    * 🏫 MS in Computer Science  at Northeastern University, Boston 
-   * 💬 Ask me about AWS, JavaScript, Java, Databases
+   * 💬 Ask me about AWS, JavaScript, Java, Databases, DevOps
    * :cloud:  AWS Certified Developer and Solution Architect Associate
    * ⚡ Fun fact: Arsenal fan, follows anime religiously
