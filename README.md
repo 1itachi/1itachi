@@ -3,4 +3,3 @@
    * 🏫 MS in Computer Science  at Northeastern University, Boston 
    * 💬 Ask me about AWS, JavaScript, Java, Databases, DevOps
    * :cloud:  AWS Certified Developer and Solution Architect Associate
-   * ⚡ Fun fact: Arsenal fan, follows anime religiously
