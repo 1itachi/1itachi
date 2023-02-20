@@ -43,4 +43,4 @@ Software Engineer
 
 <a href="http://www.github.com/1itachi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=1itachi&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/1itachi"><img src="https://activity-graph.herokuapp.com/graph?username=1itachi&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/1itachi"><img src="https://activity-graph.herokuapp.com/graph?username=1itachi&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
