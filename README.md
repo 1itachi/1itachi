@@ -3,7 +3,7 @@ Hi 👋 My name is Deepak
 
 Software Engineer
 -----------------
-* ✉️  You can contact me at [here](mailto:kumar.neu19@gmail.com)
+* ✉️  [Email](mailto:kumar.neu19@gmail.com)
 
 
 ### Socials
