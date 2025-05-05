@@ -13,6 +13,8 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
+From: 28 April 2025 - To: 05 May 2025
+
 Markdown   1 hr 6 mins     ████████████████▓░░░░░░░░   66.30 %
 JSON       15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
 XML        10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
