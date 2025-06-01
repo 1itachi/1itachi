@@ -13,13 +13,9 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2025 - To: 30 May 2025
+From: 24 May 2025 - To: 31 May 2025
 
-C#        1 hr 47 mins    ████████████▒░░░░░░░░░░░░   49.79 %
-Binary    59 mins         ███████░░░░░░░░░░░░░░░░░░   27.67 %
-YAML      20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-JSON      12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-INI       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
