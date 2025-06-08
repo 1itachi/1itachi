@@ -13,9 +13,13 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
-YAML   0 secs          █████████████████████████   100.00 %
+YAML       20 mins         ██████████▓░░░░░░░░░░░░░░   42.33 %
+C#         18 mins         █████████▓░░░░░░░░░░░░░░░   38.13 %
+Binary     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+XML        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Gherkin    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
