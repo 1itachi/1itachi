@@ -13,7 +13,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
 YAML       20 mins         ██████████▒░░░░░░░░░░░░░░   41.54 %
 C#         18 mins         █████████░░░░░░░░░░░░░░░░   36.37 %
