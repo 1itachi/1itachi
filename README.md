@@ -13,7 +13,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2025 - To: 05 July 2025
+From: 29 June 2025 - To: 06 July 2025
 
 Bash       43 mins         ███████████░░░░░░░░░░░░░░   43.43 %
 YAML       42 mins         ██████████▓░░░░░░░░░░░░░░   42.00 %
