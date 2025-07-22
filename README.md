@@ -13,7 +13,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2025 - To: 20 July 2025
+From: 14 July 2025 - To: 21 July 2025
 
 YAML       1 hr 31 mins    ██████████░░░░░░░░░░░░░░░   39.70 %
 Markdown   50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
