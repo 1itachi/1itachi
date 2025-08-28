@@ -13,10 +13,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2025 - To: 26 August 2025
+From: 20 August 2025 - To: 27 August 2025
 
-Markdown   1 hr 3 mins     ████████████████████████▓   98.44 %
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Markdown   1 hr 3 mins     ███████████████████████▓░   94.75 %
+Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
