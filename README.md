@@ -13,9 +13,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2025 - To: 15 September 2025
+From: 09 September 2025 - To: 16 September 2025
 
-No activity tracked
+C#     13 mins         ████████████████████████▒   97.12 %
+JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
