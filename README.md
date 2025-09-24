@@ -13,7 +13,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
 C#        3 hrs 4 mins    ██████████████████░░░░░░░   71.47 %
 Gherkin   31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
