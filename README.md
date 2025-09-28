@@ -13,13 +13,13 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2025 - To: 26 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-C#         1 hr 22 mins    ██████████████████░░░░░░░   72.27 %
-Markdown   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Python     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-JSON       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Binary     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+YAML       43 mins         ████████▓░░░░░░░░░░░░░░░░   34.40 %
+C#         41 mins         ████████▒░░░░░░░░░░░░░░░░   33.45 %
+JSON       16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Markdown   16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Python     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:waka-->
