@@ -13,12 +13,12 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
-C#       5 hrs 48 mins   █████████████████████░░░░   83.65 %
-Binary   52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-XML      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-INI      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+C#       4 hrs 59 mins   ████████████████████▒░░░░   81.50 %
+Binary   52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+XML      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+INI      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
