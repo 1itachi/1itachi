@@ -13,12 +13,12 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
-YAML       50 mins         ████████████████████▒░░░░   81.39 %
-C#         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+YAML       52 mins         ███████████████████████░░   91.93 %
+C#         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
