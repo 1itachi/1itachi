@@ -13,13 +13,13 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-YAML      2 hrs 25 mins   ███████████░░░░░░░░░░░░░░   43.99 %
-C#        1 hr 33 mins    ███████░░░░░░░░░░░░░░░░░░   28.34 %
-JSON      33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Docker    22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Binary    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+YAML      2 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.20 %
+C#        1 hr 56 mins    ███████▒░░░░░░░░░░░░░░░░░   29.78 %
+Binary    47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+JSON      37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Docker    22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 
 <!--END_SECTION:waka-->
