@@ -13,7 +13,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2025 - To: 29 November 2025
+From: 23 November 2025 - To: 30 November 2025
 
 C#           4 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.61 %
 Binary       2 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
