@@ -13,13 +13,10 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 08 December 2025
+From: 02 December 2025 - To: 09 December 2025
 
-C#           42 mins         ████████████████████▓░░░░   82.49 %
-JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-XML          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+TypeScript   2 mins          ████████████████████████▒   96.76 %
+JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
