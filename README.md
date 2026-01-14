@@ -13,13 +13,10 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-YAML      55 mins         ███████████████████▒░░░░░   77.85 %
-C#        11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
-Gherkin   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-JSON      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Binary    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+YAML   7 mins          ████████████████████░░░░░   80.65 %
+C#     1 min           █████░░░░░░░░░░░░░░░░░░░░   19.35 %
 ```
 
 <!--END_SECTION:waka-->
