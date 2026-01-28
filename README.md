@@ -13,9 +13,10 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 26 January 2026
+From: 20 January 2026 - To: 27 January 2026
 
-Markdown   28 mins         █████████████████████████   100.00 %
+Markdown   28 mins         ████████████████████▒░░░░   80.72 %
+C#         6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
 ```
 
 <!--END_SECTION:waka-->
