@@ -13,12 +13,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-Markdown   1 hr                  ███████████████▓░░░░░░░░░   62.00 %
-Binary     20 mins               █████░░░░░░░░░░░░░░░░░░░░   20.63 %
-C#         16 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-XML        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Binary   29 mins               ██████████████░░░░░░░░░░░   56.19 %
+C#       18 mins               █████████░░░░░░░░░░░░░░░░   36.55 %
+XML      3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
 ```
 
 <!--END_SECTION:waka-->
