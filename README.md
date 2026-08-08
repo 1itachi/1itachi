@@ -13,13 +13,13 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2026 - To: 06 August 2026
+From: 31 July 2026 - To: 07 August 2026
 
-Markdown    3 hrs 44 mins         ██████████████████░░░░░░░   72.32 %
-Gherkin     34 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-YAML        21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Terraform   18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-C#          5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Markdown    3 hrs 44 mins         █████████████████▓░░░░░░░   70.40 %
+Gherkin     25 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+YAML        21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Terraform   18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+XML         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
