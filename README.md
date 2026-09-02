@@ -13,12 +13,10 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-C#     1 hr 13 mins          █████████████████████▒░░░   85.20 %
-XML    10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-JSON   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-YAML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C#    15 mins               ██████████████████████▒░░   89.27 %
+XML   1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 ```
 
 <!--END_SECTION:waka-->
