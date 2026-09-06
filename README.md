@@ -13,13 +13,13 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2026 - To: 04 September 2026
+From: 29 August 2026 - To: 05 September 2026
 
-C#           6 hrs 35 mins         ██████████████▓░░░░░░░░░░   58.44 %
-HTTP         1 hr 11 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-JSON         1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Markdown     54 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Binary       36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+C#           8 hrs 24 mins         ████████████████░░░░░░░░░   64.30 %
+HTTP         1 hr 11 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+XML          55 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+JSON         49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Markdown     44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
